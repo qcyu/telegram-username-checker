@@ -15,7 +15,7 @@ Fragment username checker (for sale, taken, available)
    ```
    cd telegram-username-checker
    ```
-3. **Fill nicknames.txt file**
+3. **Fill usernames.txt file**
 4. **Install requirements**
    ```
    pip install -r requirements.txt
