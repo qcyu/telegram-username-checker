@@ -9,7 +9,7 @@ Fragment username checker (for sale, taken, available)
 
 1. **Clone repo:**
    ```bash
-   git clone https://github.com/qcyu/telegram-username-checker.git
+   git clone https://github.com/uwwq/telegram-username-checker.git
    ```
 2. **Go to folder** 
    ```
